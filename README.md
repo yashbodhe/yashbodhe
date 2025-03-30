@@ -6,6 +6,9 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About Me 🔍
+<a target="_blank" align="center">
+  <img align="right" top="" height="200" width="250" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - **Software Developer** with around **3 years of experience** in building robust, scalable applications across a variety of
 programming languages. 
@@ -14,7 +17,8 @@ with a strong focus on code optimization, performance tuning, and problem-solvin
 - Proficient in Data Structures, Algorithms, and Problem-Solving. **Achieved 1,634 Contest Rating in DSA on LeetCode, CodeChef** with a 3-star rating having solved 500+ problems on both platforms. Holder of Gold Badges in Problem Solving, Python, and SQL on HackerRank.
 - Technical expertise: **.NET Core, C#, MongoDB, SQL, Microsoft Azure**, Java, JavaScript, Python, Azure DevOps.
 - Feel free to ask me anything about Backend Dev or Problem-Solving, DSA!
-
+<br>
+<br>
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20" height ="20">
 <br>
