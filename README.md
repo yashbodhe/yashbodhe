@@ -21,7 +21,6 @@ with a strong focus on code optimization, performance tuning, and problem-solvin
  
 
 - **Programming Languages**: 
-<br>
 
     <ul class="list-inline dev-icons">
 			<img src="https://img.icons8.com/?size=50&id=1BC75jFEBED6&format=png&color=000000"/>&nbsp;
